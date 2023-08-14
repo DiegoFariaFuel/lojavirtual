@@ -1,3 +1,2 @@
-# lojaagir
+# Loja virtual usando flutter e block
 
-A new Flutter project.
